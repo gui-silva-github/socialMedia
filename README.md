@@ -5,6 +5,10 @@ My aim was to create a seamless user experience with captivating visuals, all ma
 
 The platform is designed to be fully responsive, providing a consistent experience across various devices and screen sizes.
 
+# Netlify
+
+[https://socialwebsitemedia.netlify.app/]
+
 # Créditos
 
 Design Resources: The visually stunning design resources used in this project were sourced from the GitHub repository of Kawsarahmmed.
